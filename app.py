@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import cv2 # Capturing video using OpenCV
 import os
 from glob import glob
-import pandas as pd  
+import pandas as pd 
 import flask
 #import pickle
 from flask import Flask, render_template, request
